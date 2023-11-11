@@ -1,0 +1,16 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+
+# F# specific
+*.fsproj.user
+*.fsxobj
+*.fsxbin
+*.dll.mdb
+*.exe.mdb
+*.ncrunch*
+*.swp
